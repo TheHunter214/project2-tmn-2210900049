@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\project2_k22cnt3_tmn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F817F56A-FBBF-4133-8A09-F52504553B97}|project2_k22cnt3_tmn\\project2_k22cnt3_tmn.vbproj|C:\\Users\\Admin\\source\\repos\\project2_k22cnt3_tmn\\project2_k22cnt3_tmn\\views\\tmnhome\\tmncontact.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F817F56A-FBBF-4133-8A09-F52504553B97}|project2_k22cnt3_tmn\\project2_k22cnt3_tmn.vbproj|solutionrelative:project2_k22cnt3_tmn\\views\\tmnhome\\tmncontact.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TmnContact.vbhtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\project2_k22cnt3_tmn\\project2_k22cnt3_tmn\\Views\\TmnHome\\TmnContact.vbhtml",
+              "RelativeDocumentMoniker": "project2_k22cnt3_tmn\\Views\\TmnHome\\TmnContact.vbhtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\project2_k22cnt3_tmn\\project2_k22cnt3_tmn\\Views\\TmnHome\\TmnContact.vbhtml",
+              "RelativeToolTip": "project2_k22cnt3_tmn\\Views\\TmnHome\\TmnContact.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-11-03T03:33:34.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
